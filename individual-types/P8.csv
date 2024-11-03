@@ -13,6 +13,11 @@
 4781A0,9585,P8,10,Boeing P-8A Poseidon
 4781A1,9586,P8,10,Boeing P-8A Poseidon
 71F00D,230921,P8,10,Boeing P-8A Poseidon
+71F00E,230922,P8,10,Boeing P-8A Poseidon
+71F00F,230923,P8,10,Boeing P-8A Poseidon
+71F010,230925,P8,10,Boeing P-8A Poseidon
+71F011,230926,P8,10,Boeing P-8A Poseidon
+71F012,230927,P8,10,Boeing P-8A Poseidon
 7CF9CB,A47-001,P8,10,Boeing P-8A Poseidon
 7CF9CC,A47-002,P8,10,Boeing P-8A Poseidon
 7CF9CD,A47-003,P8,10,Boeing P-8A Poseidon
@@ -25,6 +30,7 @@
 7CF9D4,A47-010,P8,10,Boeing P-8A Poseidon
 7CF9D5,A47-011,P8,10,Boeing P-8A Poseidon
 7CF9D6,A47-012,P8,10,Boeing P-8A Poseidon
+800312,IN326,P8,10,Boeing P-8I Neptune
 800E89,IN328,P8,10,Boeing P-8I Neptune
 800E8A,IN329,P8,10,Boeing P-8I Neptune
 800E8B,IN330,P8,10,Boeing P-8I Neptune
@@ -142,6 +148,7 @@ AE5F53,169570,P8,10,Boeing P-8A Poseidon
 AE5F54,169571,P8,10,Boeing P-8A Poseidon
 AE5F55,169572,P8,10,Boeing P-8A Poseidon
 AE5F56,169324,P8,10,Boeing P-8A Poseidon
+AE6783,169346,P8,10,Boeing P-8A Poseidon
 AE6790,169561,P8,10,Boeing P-8A Poseidon
 AE6820,169004,P8,10,Boeing P-8A Poseidon
 AE6895,169332,P8,00,Boeing P-8A Poseidon
@@ -152,6 +159,7 @@ AE6A3E,170017,P8,10,Boeing P-8A Poseidon
 AE6A3F,170018,P8,10,Boeing P-8A Poseidon
 AE6A40,170268,P8,10,Boeing P-8A Poseidon
 AE6A41,170269,P8,10,Boeing P-8A Poseidon
+AE749C,170477,P8,10,Boeing P-8A Poseidon
 C87F3A,NZ4801,P8,10,Boeing P-8A Poseidon
 C87F3B,NZ4802,P8,10,Boeing P-8A Poseidon
 C87F3C,NZ4803,P8,10,Boeing P-8A Poseidon
